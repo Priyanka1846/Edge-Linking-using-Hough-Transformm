@@ -65,19 +65,19 @@ plt.axis('off')
 ## Output
 ### Input image  
 
-<img width="619" height="423" alt="image" src="https://github.com/user-attachments/assets/09033df3-096d-4944-98ef-607a2e78109f" />
+![exp7](https://github.com/user-attachments/assets/065688dd-66a4-4770-8be7-d5a582329b9a)
 
 ### Grayscale image
 
-<img width="596" height="426" alt="image" src="https://github.com/user-attachments/assets/98f2b0e2-efc5-43b1-8d96-a903c307209b" />
+<img width="624" height="356" alt="image" src="https://github.com/user-attachments/assets/29ad3336-e785-4ac3-9c68-0f959d8d5882" />
 
 ### Canny Edge detector output
 
-<img width="606" height="442" alt="image" src="https://github.com/user-attachments/assets/3c5ab79b-5acc-4a5f-ab76-e208c44c3c0b" />
+<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/3be36ed5-c3dc-4555-aab9-d312eabcb1fb" />
 
 ### Display the result of Hough transform
 
-<img width="624" height="431" alt="image" src="https://github.com/user-attachments/assets/4c29ad76-f3d0-4843-93e9-c56fc4a746bc" />
+<img width="630" height="352" alt="image" src="https://github.com/user-attachments/assets/a1382b2e-463d-41fc-a854-74734731cc87" />
 
 ## Result:
  Thus the python program to detect the lines using Hough Transform was successfully completed.
